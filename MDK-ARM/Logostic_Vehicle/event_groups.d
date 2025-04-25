@@ -1,0 +1,15 @@
+logostic_vehicle\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+logostic_vehicle\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+logostic_vehicle\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+logostic_vehicle\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+logostic_vehicle\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+logostic_vehicle\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+logostic_vehicle\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+logostic_vehicle\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+logostic_vehicle\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+logostic_vehicle\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+logostic_vehicle\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+logostic_vehicle\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+logostic_vehicle\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+logostic_vehicle\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+logostic_vehicle\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
